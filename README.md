@@ -1,6 +1,6 @@
 # Invisble-red-cloak
 
-    This repositor containes code for the  ‘Invisibility  Red Cloak’ using OpenCV Library in Python. 
+    This repositor containes code for the  ‘Invisibile Red Cloak’ using OpenCV Library in Python. 
 
     Here the code is written to generate invisivle cloak-like effects for red colored cloak. if you have some other
     color like blue or green, they can also be adapted by modifying values of upper and lower bpound of that color 
