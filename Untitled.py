@@ -68,15 +68,10 @@ def invisible_cloak():
 
 # In[ ]:
 
+if __name__=="__main__":
+    cap,pic_file=bg_video()
+    cap.release()
+    cv2.destroyAllWindows()
 
-cap,pic_file=bg_video()
-cap.release()
-cv2.destroyAllWindows()
-
-
-# In[ ]:
-
-
-
-invisible_cloak()
+    invisible_cloak()
 
